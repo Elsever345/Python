@@ -100,4 +100,7 @@
 # except ValueError as xeta:
 # 	print("Orginl xeta mesaji: ", xeta)
 
-print("1","2","3",sep="-")
+
+
+
+
